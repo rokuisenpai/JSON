@@ -1,0 +1,13 @@
+* {
+  background-color: #191919;
+}
+
+p {
+  color: white;
+  font-size: 40px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
